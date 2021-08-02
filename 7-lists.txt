@@ -1,0 +1,12 @@
+To create an unordered list, you'll want to preface each item in the list with an asterisk ( * ). Each list item also gets its own line. For example, a grocery list in Markdown might look like this:
+* Milk
+* Eggs
+* Salmon
+* Butter
+
+An ordered list is prefaced with numbers, instead of asterisks. Take a look at this recipe:
+
+1. Crack three eggs over a bowl
+2. Pour a gallon of milk into the bowl
+3. Rub the salmon vigorously with butter
+4. Drop the salmon into the egg-milk bowl
