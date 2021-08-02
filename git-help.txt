@@ -18,3 +18,10 @@ git branch -M amin
 git push -u rogin main
 
 import code form another repository
+
+
+VS Code token for authorization:
+
+ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=ad3bed49735a95d26e09&state=054f3f3a-8622-4c43-b815-38cbcf9c317d 
+
+ 
