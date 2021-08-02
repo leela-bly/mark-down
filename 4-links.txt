@@ -1,0 +1,12 @@
+There are two different link types in Markdown
+1.The first link style is called an inline link.
+For example,
+[Visit Github!](www.github.com)
+2. Reference link: the link is actually a reference to another place in the document.
+Here's an exampl of what we mean:
+     Here's [a link to something else][another place].
+     Here's [yet another link][another-link].
+     And now back to [the first link][another place].
+
+     [another place]: www.github.com
+     [another-link]: www.google.com

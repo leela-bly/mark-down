@@ -1,0 +1,20 @@
+Quick setup -- if you've done this kind of thing before
+
+git clone https://github.com/leela-bly/mark-down.git
+
+Create a new repository on the command line
+echo "# mark-down" >> README.md
+git init
+git add READMD.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/leela-bly/mark-down.git
+git push -u origin main
+
+
+Push remote add origin https://github.com/leela-bly/mark-down.git
+git remote add orgin https://github.com/leela-bly/mark-down.git
+git branch -M amin
+git push -u rogin main
+
+import code form another repository

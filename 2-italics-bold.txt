@@ -1,0 +1,2 @@
+text formatting formatting : italics and bold.
+text between an underscore(_). For examle, _this_ word would become italic.
